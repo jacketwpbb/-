@@ -1,5 +1,18 @@
 ### 微信小程序总结
 
+
+####todolist
+封装获取formid组件，实现触摸即收集formid
+自定义actionsheet、showModal，实现button的opentype功能
+下拉刷新上拉加载公用组件
+利用事件捕获在button share事件前改变分享信息
+公共弹窗组件
+小程序API promiify、api简化
+小程序登录流程
+
+
+
+
 #### 微信小程序ajax请求封装
 微信小程序自身提供了`wx.request`接口来进行网络请求，基于这个我们来封装一个基于Promise的函数，并处理请求状态，在请求失败时提示是否刷新页面
 
