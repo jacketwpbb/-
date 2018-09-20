@@ -2,12 +2,19 @@
 
 
 ####todolist
+
 封装获取formid组件，实现触摸即收集formid
+
 自定义actionsheet、showModal，实现button的opentype功能
+
 下拉刷新上拉加载公用组件
+
 利用事件捕获在button share事件前改变分享信息
+
 公共弹窗组件
+
 小程序API promiify、api简化
+
 小程序登录流程
 
 
